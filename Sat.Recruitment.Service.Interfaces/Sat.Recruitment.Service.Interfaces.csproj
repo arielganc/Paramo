@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sar.Recrutment.Models\Sat.Recruitment.Models.csproj" />
+    <ProjectReference Include="..\Sat.Recuitment.IDao\Sat.Recruitment.Dao.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
